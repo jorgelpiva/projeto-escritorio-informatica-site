@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "projeto-escritorio-ts",
+=======
+  "name": "escritorio",
+>>>>>>> 04ba4c1c55b6ab83d99443f09337a69b42a056a8
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +14,7 @@
   },
   "dependencies": {
     "next": "12.1.5",
+<<<<<<< HEAD
     "react": "18.1.0",
     "react-dom": "18.1.0"
   },
@@ -20,5 +25,13 @@
     "eslint": "8.14.0",
     "eslint-config-next": "12.1.5",
     "typescript": "4.6.3"
+=======
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.13.0",
+    "eslint-config-next": "12.1.5"
+>>>>>>> 04ba4c1c55b6ab83d99443f09337a69b42a056a8
   }
 }
